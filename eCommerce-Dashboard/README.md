@@ -69,7 +69,7 @@ This dashboard empowers marketing and operations teams to:
 
 ## 📁 Files
 
-- `eCommerce Dashboard.pbix`: Power BI project file containing the complete dashboard
+- 📥 Download Power BI File (.pbix) - https://drive.google.com/file/d/1rm7I4oub845wPvnXosoBmKiLZmmm0-Ig/view?usp=sharing
 
 ---
 
