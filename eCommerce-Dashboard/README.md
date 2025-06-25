@@ -1,5 +1,11 @@
 # eCommerce Sales and Marketing Dashboard
 
+## 📁 Files
+
+- 📥 Download Power BI File (.pbix) - https://drive.google.com/file/d/1rm7I4oub845wPvnXosoBmKiLZmmm0-Ig/view?usp=sharing
+
+---
+
 This project presents an interactive Power BI dashboard built to analyze an eCommerce company’s sales, profit, and marketing campaign performance using data extracted from a SQL Server database.
 
 ---
@@ -67,10 +73,5 @@ This dashboard empowers marketing and operations teams to:
 
 ---
 
-## 📁 Files
-
-- 📥 Download Power BI File (.pbix) - https://drive.google.com/file/d/1rm7I4oub845wPvnXosoBmKiLZmmm0-Ig/view?usp=sharing
-
----
 
 📌 *This project demonstrates end-to-end data analysis from SQL Server to Power BI, covering real-world eCommerce performance insights.*
